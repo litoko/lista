@@ -1,0 +1,19 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="",Fox Comedy
+http://54.39.16.47:25461/live/364149979/364149979/327.m3u8
+
+#EXTINF:-1 tvg-logo="",&Prive Fhd Usa
+http://54.39.16.47:25461/live/300373511/300373511/485.m3u8
+
+#EXTINF:-1 tvg-logo="",FXM HD
+http://54.39.16.47:25461/live/300373511/300373511/254.m3u8
+
+#EXTINF:-1 tvg-logo="",HBO MUNDI HD
+http://54.39.16.47:25461/live/300373511/300373511/22117.m3u8
+
+#EXTINF:-1 tvg-logo="",FOX PREMIUM HD
+http://54.39.16.47:25461/live/300373511/300373511/22043.m3u8
+
+
